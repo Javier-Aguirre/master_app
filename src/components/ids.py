@@ -1,0 +1,10 @@
+
+CITY = "city-dropdown"
+COUNTRY = "country-dropdown"
+SLIDER = "tuition-slider"
+TYPE_CHART = "pie-chart-program-type"
+TABLE = "programs-table"
+CHECKLIST = "checklist-filter"
+PROGRAM = "program-dropdown"
+ORDER = "ordering-by-table"
+MAP = "map"
